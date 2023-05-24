@@ -23,6 +23,7 @@ cd
 testnet-auto-install-v2/opside-chain/start-geth.sh
 testnet-auto-install-v2/opside-chain/start-beaconChain.sh
 testnet-auto-install-v2/opside-chain/start-validator.sh
+```
 ```sh
 cd testnet-auto-install-v2/
 cd testnet-auto-install
