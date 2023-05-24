@@ -67,6 +67,8 @@ cd ./testnet-auto-install
 
 > Tüm tikleri işaretledikten sonra 25000 IDE'yı stake edin.
 
+> Kontrol: [eplorer](https://pre-alpha-beacon.opside.info/)
+
 
 <h1 align="center"> Yardımcı komutlar </h1>
 
