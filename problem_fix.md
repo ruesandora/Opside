@@ -4,7 +4,7 @@
 
 > Rehberimden yapıldıysa sorun yok, önceden kurmaya calısan arkadaşlar için çözüm:
 
-```
+```sh
 # Genesisi yükleyelim
 cd
 cd testnet-auto-install-v2
@@ -13,11 +13,11 @@ tar -C ./ -xzf testnet-auto-install.tar.gz
 chmod +x -R ./testnet-auto-install
 cd ./testnet-auto-install
 ```
-```
+```sh
 # Tüm sistemleri durduralım:
 opside-chain/stop-all.sh
 ```
-```
+```sh
 # Tekrar başlatalım
 cd
 testnet-auto-install-v2/opside-chain/start-geth.sh
