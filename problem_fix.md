@@ -35,3 +35,5 @@ opside-chain/show-beaconChain-log.sh
 
 opside-chain/show-validator-log.sh
 ```
+
+> deposit data klasöründe pubkeyi alıp burada search edebilisiniz https://pre-alpha-beacon.opside.info/validators/deposits
