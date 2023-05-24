@@ -57,7 +57,7 @@ cd ./testnet-auto-install
 
 <h1 align="center"> Validatör oluşturma </h1>
 
-> Node'umuz sync olduktan sonra [buraya](https://opside.network/validator/deposit) gidelim.
+> Node'umuz sync olduktan sonra (6-8 saat) [buraya](https://opside.network/validator/deposit) gidelim.
 
 > Upload deposit data'ya kadar okey diyin.
 
