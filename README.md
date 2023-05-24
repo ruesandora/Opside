@@ -82,3 +82,6 @@ opside-chain/show-beaconChain-log.sh
 # validatör logları
 opside-chain/show-validator-log.sh
 ```
+<h1 align="center"> Explorer </h1>
+
+[Link](https://pre-alpha.opside.info/)
