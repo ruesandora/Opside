@@ -35,7 +35,6 @@ opside-chain/show-beaconChain-log.sh
 
 opside-chain/show-validator-log.sh
 ```
-
 # SYNC konusunda sorun yaşadıysan V3 Fix:
 ```
 # Genesisi yükleyelim
@@ -62,3 +61,4 @@ cd testnet-auto-install-v3/
 opside-chain/show-geth-log.sh
 opside-chain/show-beaconChain-log.sh
 opside-chain/show-validator-log.sh
+
