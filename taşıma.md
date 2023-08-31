@@ -23,7 +23,7 @@ cd ./testnet-auto-install-v2
 
 ### Node'u başlatalım
 
-```
+```console
 ./install-ubuntu-en-1.0.sh
 # Bu komutu girdikten sonra sırasıyla:
 ```
