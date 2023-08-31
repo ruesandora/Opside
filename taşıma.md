@@ -81,3 +81,5 @@ testnet-auto-install-v2/opside-chain/start-validator.sh
 ### Explorer'dan çalıştığına, yani `effectiveness`'in yüksek olduğunu teyit etmeden eski sunucunuzu kapatmanızı tavsiye etmem. Emin olun!
 
 <h1 align="center"> V3 içinde işlem geçerli sadece başlatma ve durdurma komutları farklı, işlem aynı </h1>
+
+> Sadece V2 test edilmiştir.
